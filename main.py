@@ -46,7 +46,6 @@ def get_players_country():
             "salary": None
         }
         players.append(player_dictionary)
-    print(players)
     browser.quit() # Properly exit browser
 
 
@@ -65,13 +64,18 @@ def get_players_salary():
         name = row.find_element(By.TAG_NAME, "a").text
                 
         salary = row.find_element(By.CLASS_NAME, "hh-salaries-sorted").text
-                
-        print(f"Name: {name}, Salary: {salary}")
+        
+        # Match the salary to the corresponding player in the list of players
+        for player in players:
+            if player["name"] == name:
+                player["salary"] = salary
+                break
 
 
 def main():
-    #get_players_country()
+    get_players_country()
     get_players_salary()
+    print(players)
 
 if __name__ == "__main__":
     main()

@@ -3,8 +3,6 @@ from selenium import webdriver
 # For the basics of Selenium I was following their guide
 # https://www.selenium.dev/selenium/docs/api/py/index.html
 
-browser = webdriver.Chrome()
-
 def store_to_json():
     # This method will store the players name, salary, and country to a JSON object
     pass
@@ -12,7 +10,9 @@ def store_to_json():
 def get_players_country():
     # https://basketball.realgm.com/nba/players
     # Get the players name and their country
-    pass
+    browser = webdriver.Chrome()
+    browser.get("https://basketball.realgm.com/nba/players")
+    print(browser.page_source) # Testing page_source 
 
 def get_players_salary():
     # https://hoopshype.com/salaries/players/
@@ -21,7 +21,7 @@ def get_players_salary():
 
 
 def main():
-    pass
+    country = get_players_country()
 
 if __name__ == "__main__":
     main()

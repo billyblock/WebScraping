@@ -21,16 +21,26 @@ def get_players_country():
     browser.get("https://basketball.realgm.com/nba/players")
     
     # Locate all players names
-    player_name_elements = browser.find_elements(By.XPATH, "//tr/td[@data-th='Player']/a")
+    player_names_elements = browser.find_elements(By.XPATH, "//tr/td[@data-th='Player']/a")
+    # Locate all player countries
+    player_countries_elements = browser.find_elements(By.XPATH, "//tr/td[@data-th='Nationality']")
 
-    # Extract and print all player names
-    player_names = []
-    for element in player_name_elements:
-        player_names.append(element.text)
-        print(element.text)
+    # Extract lpayer name and countries
+    player_data = {}
+    for name_element, country_element in zip(player_names_elements, player_countries_elements):
+        name = name_element.text
+        
+        # Gets the nationalities of the player
+        # some players can have multiple countries so I made a list for the countries
+        country = []
+        for a in country_element.find_elements(By.TAG_NAME, "a"):
+            country.append(a.text)
+        
+        player_data[name] = {"Country": country}
+        print(f"Player: {name}, Country: {country}")
     
     '''
-    There is not element between Council IV and Craig so I am currently unsure why it is throwing error.
+    There is no element between Council IV and Craig so I am currently unsure why it is throwing error.
     Ricky Council IV
     [14276:15224:1018/223149.331:ERROR:device_event_log_impl.cc(201)] [22:31:49.331] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
     Torrey Craig

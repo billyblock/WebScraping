@@ -8,6 +8,11 @@ import time
 # For get the page source
 # https://www.scrapingbee.com/blog/selenium-python/
 
+
+
+# List for all players
+players = []
+
 def store_to_json():
     # This method will store the players name, salary, and country to a JSON object
     pass
@@ -25,8 +30,6 @@ def get_players_country():
     # Locate all player countries
     player_countries_elements = browser.find_elements(By.XPATH, "//tr/td[@data-th='Nationality']")
 
-    # List for all players
-    players = []
     for name_element, country_element in zip(player_names_elements, player_countries_elements):
         name = name_element.text
         
@@ -46,14 +49,26 @@ def get_players_country():
     print(players)
     browser.quit() # Properly exit browser
 
+
+
+# https://hoopshype.com/salaries/players/
+# Get the players name and their salaries
 def get_players_salary():
-    # https://hoopshype.com/salaries/players/
-    # Get the players name and their salaries
-    pass
+    browser = webdriver.Chrome()
+    browser.get("https://hoopshype.com/salaries/players/")
+    
+    # Gets the specified elements 
+    players_name_elements = browser.find_elements(By.XPATH, "//tr/td[@class='name']/a")
+    
+    # Print the name of each player
+    for name_element in players_name_elements:
+        name = name_element.text
+        print(name)
 
 
 def main():
-    country = get_players_country()
+    #get_players_country()
+    get_players_salary()
 
 if __name__ == "__main__":
     main()

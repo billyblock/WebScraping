@@ -1,0 +1,3700 @@
+[
+    {
+        "name": "Precious Achiuwa",
+        "country": [
+            "Nigeria"
+        ],
+        "salary": "$6,000,000"
+    },
+    {
+        "name": "Steven Adams",
+        "country": [
+            "New Zealand"
+        ],
+        "salary": "$12,600,000"
+    },
+    {
+        "name": "Bam Adebayo",
+        "country": [
+            "United States"
+        ],
+        "salary": "$34,848,340"
+    },
+    {
+        "name": "Ochai Agbaji",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,310,280"
+    },
+    {
+        "name": "Santi Aldama",
+        "country": [
+            "Spain"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Trey Alexander",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Nickeil Alexander-Walker",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$4,312,500"
+    },
+    {
+        "name": "Grayson Allen",
+        "country": [
+            "United States"
+        ],
+        "salary": "$15,625,000"
+    },
+    {
+        "name": "Jarrett Allen",
+        "country": [
+            "United States"
+        ],
+        "salary": "$20,000,000"
+    },
+    {
+        "name": "Jose Alvarado",
+        "country": [
+            "United States",
+            "Puerto Rico"
+        ],
+        "salary": "$1,988,598"
+    },
+    {
+        "name": "Kyle Anderson",
+        "country": [
+            "United States",
+            "China"
+        ],
+        "salary": "$8,780,488"
+    },
+    {
+        "name": "Giannis Antetokounmpo",
+        "country": [
+            "Greece",
+            "Nigeria"
+        ],
+        "salary": "$48,787,676"
+    },
+    {
+        "name": "Cole Anthony",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,900,000"
+    },
+    {
+        "name": "OG Anunoby",
+        "country": [
+            "England",
+            "United States"
+        ],
+        "salary": "$36,637,932"
+    },
+    {
+        "name": "Deni Avdija",
+        "country": [
+            "Israel"
+        ],
+        "salary": "$15,625,000"
+    },
+    {
+        "name": "Deandre Ayton",
+        "country": [
+            "Bahamas"
+        ],
+        "salary": "$34,005,126"
+    },
+    {
+        "name": "Marvin Bagley III",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Patrick Baldwin, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "LaMelo Ball",
+        "country": [
+            "United States"
+        ],
+        "salary": "$35,147,000"
+    },
+    {
+        "name": "Lonzo Ball",
+        "country": [
+            "United States"
+        ],
+        "salary": "$21,395,348"
+    },
+    {
+        "name": "Mohamed Bamba",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Paolo Banchero",
+        "country": [
+            "United States",
+            "Italy"
+        ],
+        "salary": "$12,160,800"
+    },
+    {
+        "name": "Desmond Bane",
+        "country": [
+            "United States"
+        ],
+        "salary": "$34,005,250"
+    },
+    {
+        "name": "Dalano Banton",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$2,196,970"
+    },
+    {
+        "name": "Dominick Barlow",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Harrison Barnes",
+        "country": [
+            "United States"
+        ],
+        "salary": "$18,000,000"
+    },
+    {
+        "name": "Scottie Barnes",
+        "country": [
+            "United States"
+        ],
+        "salary": "$10,130,980"
+    },
+    {
+        "name": "R.J. Barrett",
+        "country": [
+            "Canada"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Charles Bassey",
+        "country": [
+            "Nigeria",
+            "United States"
+        ],
+        "salary": "$2,162,606"
+    },
+    {
+        "name": "Emoni Bates",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Keita Bates-Diop",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,654,644"
+    },
+    {
+        "name": "Jamison Battle",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Nicolas Batum",
+        "country": [
+            "France"
+        ],
+        "salary": "$4,668,000"
+    },
+    {
+        "name": "Bradley Beal",
+        "country": [
+            "United States"
+        ],
+        "salary": "$50,203,930"
+    },
+    {
+        "name": "Malik Beasley",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,000,000"
+    },
+    {
+        "name": "MarJon Beauchamp",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,733,720"
+    },
+    {
+        "name": "Reece Beekman",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Saddiq Bey",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,440,678"
+    },
+    {
+        "name": "Goga Bitadze",
+        "country": [
+            "Georgia"
+        ],
+        "salary": "$9,057,971"
+    },
+    {
+        "name": "Anthony Black",
+        "country": [
+            "United States"
+        ],
+        "salary": "$7,607,754"
+    },
+    {
+        "name": "Bogdan Bogdanovic",
+        "country": [
+            "Serbia"
+        ],
+        "salary": "$17,260,000"
+    },
+    {
+        "name": "Bojan Bogdanovic",
+        "country": [
+            "Bosnia and Herzegovina",
+            "Croatia"
+        ],
+        "salary": "$19,032,850"
+    },
+    {
+        "name": "Bol Bol",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,425,403"
+    },
+    {
+        "name": "Adem Bona",
+        "country": [
+            "Nigeria",
+            "Turkey"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Devin Booker",
+        "country": [
+            "United States"
+        ],
+        "salary": "$49,205,800"
+    },
+    {
+        "name": "Chris Boucher",
+        "country": [
+            "Saint Lucia",
+            "Canada"
+        ],
+        "salary": "$10,810,000"
+    },
+    {
+        "name": "Malaki Branham",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,217,920"
+    },
+    {
+        "name": "Christian Braun",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,089,640"
+    },
+    {
+        "name": "Jalen Bridges",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Mikal Bridges",
+        "country": [
+            "United States"
+        ],
+        "salary": "$23,300,000"
+    },
+    {
+        "name": "Miles Bridges",
+        "country": [
+            "United States"
+        ],
+        "salary": "$27,173,913"
+    },
+    {
+        "name": "Malcolm Brogdon",
+        "country": [
+            "United States"
+        ],
+        "salary": "$22,500,000"
+    },
+    {
+        "name": "Dillon Brooks",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$22,255,493"
+    },
+    {
+        "name": "Jaylen Brown",
+        "country": [
+            "United States"
+        ],
+        "salary": "$49,205,800"
+    },
+    {
+        "name": "Bruce Brown, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Kobe Brown",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,534,024"
+    },
+    {
+        "name": "Jalen Brunson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$24,960,001"
+    },
+    {
+        "name": "Thomas Bryant",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,800,834"
+    },
+    {
+        "name": "Kobe Bufkin",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,298,956"
+    },
+    {
+        "name": "Alec Burks",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Jimmy Butler",
+        "country": [
+            "United States"
+        ],
+        "salary": "$48,798,677"
+    },
+    {
+        "name": "Matas Buzelis",
+        "country": [
+            "United States",
+            "Lithuania"
+        ],
+        "salary": "$5,195,520"
+    },
+    {
+        "name": "Jamal Cain",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Kentavious Caldwell-Pope",
+        "country": [
+            "United States"
+        ],
+        "salary": "$22,757,000"
+    },
+    {
+        "name": "Toumani Camara",
+        "country": [
+            "Belgium"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Vlatko Cancar",
+        "country": [
+            "Slovenia"
+        ],
+        "salary": "$2,425,403"
+    },
+    {
+        "name": "Clint Capela",
+        "country": [
+            "Switzerland"
+        ],
+        "salary": "$22,265,280"
+    },
+    {
+        "name": "Bub Carrington",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Devin Carter",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,689,000"
+    },
+    {
+        "name": "Jevon Carter",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,500,000"
+    },
+    {
+        "name": "Wendell Carter, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "D.J. Carton",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Alex Caruso",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,890,000"
+    },
+    {
+        "name": "Stephon Castle",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,105,120"
+    },
+    {
+        "name": "Julian Champagnie",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,000,000"
+    },
+    {
+        "name": "Justin Champagnie",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Ulrich Chomche",
+        "country": [
+            "Cameroon"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Cameron Christie",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Max Christie",
+        "country": [
+            "United States"
+        ],
+        "salary": "$7,142,857"
+    },
+    {
+        "name": "Josh Christopher",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Sidy Cissoko",
+        "country": [
+            "France"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Jaylen Clark",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Brandon Clarke",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$12,500,000"
+    },
+    {
+        "name": "Jordan Clarkson",
+        "country": [
+            "United States",
+            "Philippines"
+        ],
+        "salary": "$14,092,577"
+    },
+    {
+        "name": "Nicolas Claxton",
+        "country": [
+            "United States",
+            "U.S. Virgin Islands"
+        ],
+        "salary": "$27,556,817"
+    },
+    {
+        "name": "Donovan Clingan",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,836,400"
+    },
+    {
+        "name": "Noah Clowney",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,244,080"
+    },
+    {
+        "name": "Amir Coffey",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,938,271"
+    },
+    {
+        "name": "Isaiah Collier",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,512,680"
+    },
+    {
+        "name": "John Collins",
+        "country": [
+            "United States"
+        ],
+        "salary": "$26,580,000"
+    },
+    {
+        "name": "Zach Collins",
+        "country": [
+            "United States"
+        ],
+        "salary": "$16,741,200"
+    },
+    {
+        "name": "Mike Conley",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,975,962"
+    },
+    {
+        "name": "Pat Connaughton",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,423,869"
+    },
+    {
+        "name": "Bilal Coulibaly",
+        "country": [
+            "France"
+        ],
+        "salary": "$6,944,969"
+    },
+    {
+        "name": "Ricky Council IV",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Torrey Craig",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,845,342"
+    },
+    {
+        "name": "Isaiah Crawford",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Cade Cunningham",
+        "country": [
+            "United States"
+        ],
+        "salary": "$13,940,809"
+    },
+    {
+        "name": "Seth Curry",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Stephen Curry",
+        "country": [
+            "United States"
+        ],
+        "salary": "$55,761,217"
+    },
+    {
+        "name": "Tristan Da Silva",
+        "country": [
+            "Germany",
+            "Brazil"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Pacome Dadiet",
+        "country": [
+            "France"
+        ],
+        "salary": "$1,808,080"
+    },
+    {
+        "name": "Dyson Daniels",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$6,059,520"
+    },
+    {
+        "name": "N'Faly Dante",
+        "country": [
+            "Mali"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Anthony Davis",
+        "country": [
+            "United States"
+        ],
+        "salary": "$43,219,440"
+    },
+    {
+        "name": "Johnny Davis",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,291,160"
+    },
+    {
+        "name": "J.D. Davison",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "DeMar DeRozan",
+        "country": [
+            "United States"
+        ],
+        "salary": "$23,400,000"
+    },
+    {
+        "name": "RayJ Dennis",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Donte DiVincenzo",
+        "country": [
+            "United States"
+        ],
+        "salary": "$11,445,000"
+    },
+    {
+        "name": "Moussa Diabate",
+        "country": [
+            "France"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Gradey Dick",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,763,543"
+    },
+    {
+        "name": "Ousmane Dieng",
+        "country": [
+            "France"
+        ],
+        "salary": "$5,027,040"
+    },
+    {
+        "name": "Rob Dillingham",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,262,920"
+    },
+    {
+        "name": "Spencer Dinwiddie",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Luka Doncic",
+        "country": [
+            "Slovenia"
+        ],
+        "salary": "$43,031,940"
+    },
+    {
+        "name": "Luguentz Dort",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$16,500,000"
+    },
+    {
+        "name": "Ayo Dosunmu",
+        "country": [
+            "United States"
+        ],
+        "salary": "$7,000,000"
+    },
+    {
+        "name": "Jeff Dowtin",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "P.J. Dozier",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Andre Drummond",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,000,000"
+    },
+    {
+        "name": "Chris Duarte",
+        "country": [
+            "Canada",
+            "Dominican Republic"
+        ],
+        "salary": "$5,893,768"
+    },
+    {
+        "name": "Alex Ducas",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "David Duke",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Kris Dunn",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,168,000"
+    },
+    {
+        "name": "Ryan Dunn",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,530,800"
+    },
+    {
+        "name": "Kevin Durant",
+        "country": [
+            "United States"
+        ],
+        "salary": "$51,179,020"
+    },
+    {
+        "name": "Jalen Duren",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,536,840"
+    },
+    {
+        "name": "Tari Eason",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,695,160"
+    },
+    {
+        "name": "Zach Edey",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$5,756,880"
+    },
+    {
+        "name": "Anthony Edwards",
+        "country": [
+            "United States"
+        ],
+        "salary": "$42,176,400"
+    },
+    {
+        "name": "Jesse Edwards",
+        "country": [
+            "Netherlands"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Justin Edwards",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Kessler Edwards",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Keon Ellis",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,120,693"
+    },
+    {
+        "name": "Joel Embiid",
+        "country": [
+            "Cameroon",
+            "United States"
+        ],
+        "salary": "$51,415,938"
+    },
+    {
+        "name": "Drew Eubanks",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,000,000"
+    },
+    {
+        "name": "Dante Exum",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$3,150,000"
+    },
+    {
+        "name": "Bruno Fernando",
+        "country": [
+            "Angola"
+        ],
+        "salary": "$2,425,403"
+    },
+    {
+        "name": "Kyle Filipowski",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,000,000"
+    },
+    {
+        "name": "Dorian Finney-Smith",
+        "country": [
+            "United States"
+        ],
+        "salary": "$14,924,167"
+    },
+    {
+        "name": "Adam Flagler",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Trentyn Flowers",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Simone Fontecchio",
+        "country": [
+            "Italy"
+        ],
+        "salary": "$7,692,308"
+    },
+    {
+        "name": "De'Aaron Fox",
+        "country": [
+            "United States"
+        ],
+        "salary": "$34,848,340"
+    },
+    {
+        "name": "Enrique Freeman",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Johnny Furphy",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$1,850,842"
+    },
+    {
+        "name": "Daniel Gafford",
+        "country": [
+            "United States"
+        ],
+        "salary": "$13,394,160"
+    },
+    {
+        "name": "Darius Garland",
+        "country": [
+            "United States"
+        ],
+        "salary": "$36,725,670"
+    },
+    {
+        "name": "Luka Garza",
+        "country": [
+            "United States",
+            "Bosnia and Herzegovina"
+        ],
+        "salary": "$2,162,606"
+    },
+    {
+        "name": "Keyonte George",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,084,265"
+    },
+    {
+        "name": "Kyshawn George",
+        "country": [
+            "Switzerland"
+        ],
+        "salary": "$2,825,520"
+    },
+    {
+        "name": "Paul George",
+        "country": [
+            "United States"
+        ],
+        "salary": "$49,205,800"
+    },
+    {
+        "name": "Taj Gibson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Josh Giddey",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$8,352,367"
+    },
+    {
+        "name": "Shai Gilgeous-Alexander",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$35,859,950"
+    },
+    {
+        "name": "Anthony Gill",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,237,691"
+    },
+    {
+        "name": "Collin Gillespie",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Rudy Gobert",
+        "country": [
+            "France"
+        ],
+        "salary": "$43,827,586"
+    },
+    {
+        "name": "Aaron Gordon",
+        "country": [
+            "United States"
+        ],
+        "salary": "$22,841,455"
+    },
+    {
+        "name": "Eric Gordon",
+        "country": [
+            "United States",
+            "Bahamas"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Jazian Gortman",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Jerami Grant",
+        "country": [
+            "United States"
+        ],
+        "salary": "$29,793,104"
+    },
+    {
+        "name": "A.J. Green",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Draymond Green",
+        "country": [
+            "United States"
+        ],
+        "salary": "$24,107,143"
+    },
+    {
+        "name": "Jalen Green",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,483,048"
+    },
+    {
+        "name": "Javonte Green",
+        "country": [
+            "United States",
+            "Montenegro"
+        ],
+        "salary": "$2,425,403"
+    },
+    {
+        "name": "Jeff Green",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,000,000"
+    },
+    {
+        "name": "Josh Green",
+        "country": [
+            "United States",
+            "Australia"
+        ],
+        "salary": "$12,654,321"
+    },
+    {
+        "name": "Quentin Grimes",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,296,682"
+    },
+    {
+        "name": "Mouhamed Gueye",
+        "country": [
+            "Senegal"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Rui Hachimura",
+        "country": [
+            "Japan"
+        ],
+        "salary": "$17,000,000"
+    },
+    {
+        "name": "Tyrese Haliburton",
+        "country": [
+            "United States"
+        ],
+        "salary": "$42,176,400"
+    },
+    {
+        "name": "P.J. Hall",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Tim Hardaway Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "James Harden",
+        "country": [
+            "United States"
+        ],
+        "salary": "$33,653,846"
+    },
+    {
+        "name": "Jaden Hardy",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,019,699"
+    },
+    {
+        "name": "Gary Harris",
+        "country": [
+            "United States"
+        ],
+        "salary": "$7,500,000"
+    },
+    {
+        "name": "Tobias Harris",
+        "country": [
+            "United States"
+        ],
+        "salary": "$25,365,854"
+    },
+    {
+        "name": "Josh Hart",
+        "country": [
+            "United States"
+        ],
+        "salary": "$18,144,000"
+    },
+    {
+        "name": "Isaiah Hartenstein",
+        "country": [
+            "United States",
+            "Germany"
+        ],
+        "salary": "$30,000,000"
+    },
+    {
+        "name": "Sam Hauser",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,092,344"
+    },
+    {
+        "name": "Jordan Hawkins",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,525,706"
+    },
+    {
+        "name": "Jaxson Hayes",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,463,946"
+    },
+    {
+        "name": "Scoot Henderson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$10,259,449"
+    },
+    {
+        "name": "Taylor Hendricks",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,848,366"
+    },
+    {
+        "name": "Tyler Herro",
+        "country": [
+            "United States"
+        ],
+        "salary": "$29,000,000"
+    },
+    {
+        "name": "Buddy Hield",
+        "country": [
+            "Bahamas"
+        ],
+        "salary": "$8,780,488"
+    },
+    {
+        "name": "Haywood Highsmith",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,200,000"
+    },
+    {
+        "name": "Malcolm Hill",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Aaron Holiday",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,668,000"
+    },
+    {
+        "name": "Jrue Holiday",
+        "country": [
+            "United States"
+        ],
+        "salary": "$30,000,000"
+    },
+    {
+        "name": "Ron Holland",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,245,320"
+    },
+    {
+        "name": "DaRon Holmes II",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Richaun Holmes",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,648,321"
+    },
+    {
+        "name": "Chet Holmgren",
+        "country": [
+            "United States"
+        ],
+        "salary": "$10,880,640"
+    },
+    {
+        "name": "Jalen Hood-Schifino",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,879,830"
+    },
+    {
+        "name": "Al Horford",
+        "country": [
+            "Dominican Republic",
+            "United States"
+        ],
+        "salary": "$9,500,000"
+    },
+    {
+        "name": "Talen Horton-Tucker",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,425,403"
+    },
+    {
+        "name": "Caleb Houstan",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$2,019,699"
+    },
+    {
+        "name": "Jett Howard",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,278,165"
+    },
+    {
+        "name": "Kevin Huerter",
+        "country": [
+            "United States"
+        ],
+        "salary": "$16,830,357"
+    },
+    {
+        "name": "James Huff",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Ariel Hukporti",
+        "country": [
+            "Germany",
+            "Togo"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "De'Andre Hunter",
+        "country": [
+            "United States"
+        ],
+        "salary": "$21,696,429"
+    },
+    {
+        "name": "Bones Hyland",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,158,439"
+    },
+    {
+        "name": "Oso Ighodaro",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,862,265"
+    },
+    {
+        "name": "Joe Ingles",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Brandon Ingram",
+        "country": [
+            "United States"
+        ],
+        "salary": "$36,016,200"
+    },
+    {
+        "name": "Harrison Ingram",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Kyrie Irving",
+        "country": [
+            "United States",
+            "Australia"
+        ],
+        "salary": "$41,000,000"
+    },
+    {
+        "name": "Jonathan Isaac",
+        "country": [
+            "United States"
+        ],
+        "salary": "$25,000,000"
+    },
+    {
+        "name": "Jaden Ivey",
+        "country": [
+            "United States"
+        ],
+        "salary": "$7,977,240"
+    },
+    {
+        "name": "G.G. Jackson",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Isaiah Jackson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,435,380"
+    },
+    {
+        "name": "Andre Jackson, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Jaren Jackson, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Quenton Jackson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Reggie Jackson",
+        "country": [
+            "Italy",
+            "United States"
+        ],
+        "salary": "$5,250,000"
+    },
+    {
+        "name": "Trayce Jackson-Davis",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Bronny James",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "LeBron James",
+        "country": [
+            "United States"
+        ],
+        "salary": "$48,728,845"
+    },
+    {
+        "name": "Jaime Jaquez, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "DaQuan Jeffries",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,425,403"
+    },
+    {
+        "name": "Trey Jemison",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Daniss Jenkins",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Ty Jerome",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,560,975"
+    },
+    {
+        "name": "Isaiah Joe",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,991,650"
+    },
+    {
+        "name": "A.J. Johnson",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Cameron Johnson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$22,500,000"
+    },
+    {
+        "name": "Jalen Johnson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,510,905"
+    },
+    {
+        "name": "James Johnson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Keldon Johnson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$19,000,000"
+    },
+    {
+        "name": "Keon Johnson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,162,606"
+    },
+    {
+        "name": "Keshad Johnson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Nikola Jokic",
+        "country": [
+            "Serbia"
+        ],
+        "salary": "$51,415,938"
+    },
+    {
+        "name": "Colby Jones",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,120,693"
+    },
+    {
+        "name": "Derrick Jones",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,523,810"
+    },
+    {
+        "name": "Dillon Jones",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,622,360"
+    },
+    {
+        "name": "Herb Jones",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,976,362"
+    },
+    {
+        "name": "Isaac Jones",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Kai Jones",
+        "country": [
+            "Bahamas"
+        ],
+        "salary": "$2,162,606"
+    },
+    {
+        "name": "Mason Jones",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Spencer Jones",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Tre Jones",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,104,167"
+    },
+    {
+        "name": "Tyus Jones",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,003,427"
+    },
+    {
+        "name": "DeAndre Jordan",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Cory Joseph",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Nikola Jovic",
+        "country": [
+            "Serbia"
+        ],
+        "salary": "$2,464,200"
+    },
+    {
+        "name": "Johnny Juzang",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,087,519"
+    },
+    {
+        "name": "Yuki Kawamura",
+        "country": [
+            "Japan"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Luke Kennard",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,250,000"
+    },
+    {
+        "name": "Walker Kessler",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,965,920"
+    },
+    {
+        "name": "Corey Kispert",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,705,887"
+    },
+    {
+        "name": "Maxi Kleber",
+        "country": [
+            "Germany"
+        ],
+        "salary": "$11,000,000"
+    },
+    {
+        "name": "Bobi Klintman",
+        "country": [
+            "Sweden"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Dalton Knecht",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,819,120"
+    },
+    {
+        "name": "Tyler Kolek",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,087,519"
+    },
+    {
+        "name": "Christian Koloko",
+        "country": [
+            "Cameroon"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "John Konchar",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,165,000"
+    },
+    {
+        "name": "Luke Kornet",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,800,834"
+    },
+    {
+        "name": "Vit Krejci",
+        "country": [
+            "Czech Republic"
+        ],
+        "salary": "$2,162,606"
+    },
+    {
+        "name": "Jonathan Kuminga",
+        "country": [
+            "Democratic Republic of the Congo"
+        ],
+        "salary": "$7,636,307"
+    },
+    {
+        "name": "Kyle Kuzma",
+        "country": [
+            "United States"
+        ],
+        "salary": "$23,522,727"
+    },
+    {
+        "name": "Jake LaRavia",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,352,680"
+    },
+    {
+        "name": "Zach LaVine",
+        "country": [
+            "United States"
+        ],
+        "salary": "$43,031,940"
+    },
+    {
+        "name": "Jock Landale",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$8,000,000"
+    },
+    {
+        "name": "Pelle Larsson",
+        "country": [
+            "Sweden"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Caris LeVert",
+        "country": [
+            "United States"
+        ],
+        "salary": "$16,615,384"
+    },
+    {
+        "name": "Damion Lee",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,800,834"
+    },
+    {
+        "name": "Alex Len",
+        "country": [
+            "Ukraine"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Kawhi Leonard",
+        "country": [
+            "United States"
+        ],
+        "salary": "$49,205,800"
+    },
+    {
+        "name": "Maxwell Lewis",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "E.J. Liddell",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Damian Lillard",
+        "country": [
+            "United States"
+        ],
+        "salary": "$48,787,676"
+    },
+    {
+        "name": "Dereck Lively II",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Chris Livingston",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Kevon Looney",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,000,000"
+    },
+    {
+        "name": "Brook Lopez",
+        "country": [
+            "United States"
+        ],
+        "salary": "$23,000,000"
+    },
+    {
+        "name": "Kevin Love",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,850,000"
+    },
+    {
+        "name": "Kyle Lowry",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Seth Lundy",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Trey Lyles",
+        "country": [
+            "Canada",
+            "United States"
+        ],
+        "salary": "$8,000,000"
+    },
+    {
+        "name": "Sandro Mamukelashvili",
+        "country": [
+            "Georgia"
+        ],
+        "salary": "$2,162,606"
+    },
+    {
+        "name": "Terance Mann",
+        "country": [
+            "United States"
+        ],
+        "salary": "$11,423,077"
+    },
+    {
+        "name": "Tre Mann",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,908,373"
+    },
+    {
+        "name": "Lauri Markkanen",
+        "country": [
+            "Finland"
+        ],
+        "salary": "$42,176,400"
+    },
+    {
+        "name": "Naji Marshall",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,571,429"
+    },
+    {
+        "name": "Caleb Martin",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,149,001"
+    },
+    {
+        "name": "Cody Martin",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,120,000"
+    },
+    {
+        "name": "Jaylen Martin",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "K.J. Martin",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Tyrese Martin",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,862,265"
+    },
+    {
+        "name": "Garrison Mathews",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,230,253"
+    },
+    {
+        "name": "Bennedict Mathurin",
+        "country": [
+            "Canada",
+            "Haiti"
+        ],
+        "salary": "$7,245,720"
+    },
+    {
+        "name": "Karlo Matkovic",
+        "country": [
+            "Bosnia and Herzegovina",
+            "Croatia"
+        ],
+        "salary": "$1,282,153"
+    },
+    {
+        "name": "Tyrese Maxey",
+        "country": [
+            "United States"
+        ],
+        "salary": "$35,147,000"
+    },
+    {
+        "name": "Miles McBride",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,710,144"
+    },
+    {
+        "name": "Jared McCain",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,020,360"
+    },
+    {
+        "name": "Mac McClung",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,087,519"
+    },
+    {
+        "name": "C.J. McCollum",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "T.J. McConnell",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Kevin McCullar, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Jaden McDaniels",
+        "country": [
+            "United States"
+        ],
+        "salary": "$23,017,242"
+    },
+    {
+        "name": "Doug McDermott",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Bryce McGowens",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Jordan McLaughlin",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,425,403"
+    },
+    {
+        "name": "Jack McVeigh",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "De'Anthony Melton",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,822,000"
+    },
+    {
+        "name": "Sam Merrill",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,164,993"
+    },
+    {
+        "name": "Vasilije Micic",
+        "country": [
+            "Serbia"
+        ],
+        "salary": "$7,723,000"
+    },
+    {
+        "name": "Khris Middleton",
+        "country": [
+            "United States"
+        ],
+        "salary": "$31,666,667"
+    },
+    {
+        "name": "Brandon Miller",
+        "country": [
+            "United States"
+        ],
+        "salary": "$11,424,382"
+    },
+    {
+        "name": "Jordan Miller",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Leonard Miller",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Patty Mills",
+        "country": [
+            "Australia"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Shake Milton",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,875,000"
+    },
+    {
+        "name": "Justin Minaya",
+        "country": [
+            "United States",
+            "Dominican Republic"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Riley Minix",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Josh Minott",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,019,699"
+    },
+    {
+        "name": "Yves Missi",
+        "country": [
+            "Cameroon"
+        ],
+        "salary": "$3,193,200"
+    },
+    {
+        "name": "Ajay Mitchell",
+        "country": [
+            "Belgium"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Davion Mitchell",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,451,077"
+    },
+    {
+        "name": "Donovan Mitchell",
+        "country": [
+            "United States"
+        ],
+        "salary": "$35,410,310"
+    },
+    {
+        "name": "Evan Mobley",
+        "country": [
+            "United States"
+        ],
+        "salary": "$11,227,657"
+    },
+    {
+        "name": "Jonathan Mogbo",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,862,265"
+    },
+    {
+        "name": "Malik Monk",
+        "country": [
+            "United States"
+        ],
+        "salary": "$17,405,203"
+    },
+    {
+        "name": "Moses Moody",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,803,269"
+    },
+    {
+        "name": "Wendell Moore, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Taze Moore",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Ja Morant",
+        "country": [
+            "United States"
+        ],
+        "salary": "$36,725,670"
+    },
+    {
+        "name": "Markieff Morris",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Monte Morris",
+        "country": [
+            "United States",
+            "Nigeria"
+        ],
+        "salary": "$2,800,834"
+    },
+    {
+        "name": "Trey Murphy III",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Dejounte Murray",
+        "country": [
+            "United States"
+        ],
+        "salary": "$29,283,801"
+    },
+    {
+        "name": "Jamal Murray",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$36,016,200"
+    },
+    {
+        "name": "Keegan Murray",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,809,560"
+    },
+    {
+        "name": "Kris Murray",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,990,040"
+    },
+    {
+        "name": "Svi Mykhailiuk",
+        "country": [
+            "Ukraine"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Larry Nance, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Andrew Nembhard",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$2,019,699"
+    },
+    {
+        "name": "Aaron Nesmith",
+        "country": [
+            "United States"
+        ],
+        "salary": "$11,000,000"
+    },
+    {
+        "name": "Tristen Newton",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Georges Niang",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,500,000"
+    },
+    {
+        "name": "Daishen Nix",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Zeke Nnaji",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,888,889"
+    },
+    {
+        "name": "Jusuf Nurkic",
+        "country": [
+            "Bosnia and Herzegovina"
+        ],
+        "salary": "$18,125,000"
+    },
+    {
+        "name": "Royce O'Neale",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,375,000"
+    },
+    {
+        "name": "Josh Okogie",
+        "country": [
+            "Nigeria",
+            "United States"
+        ],
+        "salary": "$8,250,000"
+    },
+    {
+        "name": "Onyeka Okongwu",
+        "country": [
+            "United States"
+        ],
+        "salary": "$14,000,000"
+    },
+    {
+        "name": "Isaac Okoro",
+        "country": [
+            "United States"
+        ],
+        "salary": "$10,185,186"
+    },
+    {
+        "name": "Quincy Olivari",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Kelly Olynyk",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$12,804,878"
+    },
+    {
+        "name": "Kelly Oubre, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Chris Paul",
+        "country": [
+            "United States"
+        ],
+        "salary": "$10,460,000"
+    },
+    {
+        "name": "Cameron Payne",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,003,427"
+    },
+    {
+        "name": "Gary Payton II",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,130,000"
+    },
+    {
+        "name": "Drew Peterson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Julian Phillips",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Jalen Pickett",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Scotty Pippen, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Mason Plumlee",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Brandin Podziemski",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,519,960"
+    },
+    {
+        "name": "Jakob Poeltl",
+        "country": [
+            "Austria"
+        ],
+        "salary": "$19,500,000"
+    },
+    {
+        "name": "Jordan Poole",
+        "country": [
+            "United States"
+        ],
+        "salary": "$29,651,786"
+    },
+    {
+        "name": "Craig Porter, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Kevin Porter, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Michael Porter, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Bobby Portis",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,578,286"
+    },
+    {
+        "name": "Kristaps Porzingis",
+        "country": [
+            "Latvia"
+        ],
+        "salary": "$29,268,293"
+    },
+    {
+        "name": "Quinten Post",
+        "country": [
+            "Netherlands"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Micah Potter",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Dwight Powell",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$4,000,000"
+    },
+    {
+        "name": "Norman Powell",
+        "country": [
+            "United States"
+        ],
+        "salary": "$19,241,379"
+    },
+    {
+        "name": "Jason Preston",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Taurean Prince",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,988,550"
+    },
+    {
+        "name": "Payton Pritchard",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,696,429"
+    },
+    {
+        "name": "Olivier-Maxence Prosper",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$2,870,406"
+    },
+    {
+        "name": "Trevelin Queen",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Neemias Queta",
+        "country": [
+            "Portugal"
+        ],
+        "salary": "$2,162,606"
+    },
+    {
+        "name": "Immanuel Quickley",
+        "country": [
+            "United States"
+        ],
+        "salary": "$32,500,000"
+    },
+    {
+        "name": "Lester Quinones",
+        "country": [
+            "United States",
+            "Dominican Republic"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Julius Randle",
+        "country": [
+            "United States"
+        ],
+        "salary": "$28,939,680"
+    },
+    {
+        "name": "Duop Reath",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$2,048,780"
+    },
+    {
+        "name": "Austin Reaves",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,976,362"
+    },
+    {
+        "name": "Cam Reddish",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,463,946"
+    },
+    {
+        "name": "Paul Reed, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Alex Reese",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Antonio Reeves",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Naz Reid",
+        "country": [
+            "United States"
+        ],
+        "salary": "$13,986,432"
+    },
+    {
+        "name": "Nick Richards",
+        "country": [
+            "Jamaica"
+        ],
+        "salary": "$5,000,000"
+    },
+    {
+        "name": "Josh Richardson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,051,153"
+    },
+    {
+        "name": "Zaccharie Risacher",
+        "country": [
+            "Spain",
+            "France"
+        ],
+        "salary": "$12,569,040"
+    },
+    {
+        "name": "Liam Robbins",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Duncan Robinson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$19,406,000"
+    },
+    {
+        "name": "Mitchell Robinson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$14,318,182"
+    },
+    {
+        "name": "Orlando Robinson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,087,519"
+    },
+    {
+        "name": "Jeremiah Robinson-Earl",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,196,970"
+    },
+    {
+        "name": "David Roddy",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,847,240"
+    },
+    {
+        "name": "Ryan Rollins",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,184,388"
+    },
+    {
+        "name": "Terry Rozier",
+        "country": [
+            "United States"
+        ],
+        "salary": "$24,924,126"
+    },
+    {
+        "name": "Rayan Rupert",
+        "country": [
+            "France"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "D'Angelo Russell",
+        "country": [
+            "United States"
+        ],
+        "salary": "$18,692,307"
+    },
+    {
+        "name": "Domantas Sabonis",
+        "country": [
+            "United States",
+            "Lithuania"
+        ],
+        "salary": "$40,500,000"
+    },
+    {
+        "name": "Tidjane Salaun",
+        "country": [
+            "France"
+        ],
+        "salary": "$7,488,720"
+    },
+    {
+        "name": "Adama Sanogo",
+        "country": [
+            "Mali"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Gui Santos",
+        "country": [
+            "Brazil",
+            "Portugal"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Dario Saric",
+        "country": [
+            "Croatia"
+        ],
+        "salary": "$5,168,000"
+    },
+    {
+        "name": "Alex Sarr",
+        "country": [
+            "France"
+        ],
+        "salary": "$11,245,680"
+    },
+    {
+        "name": "Marcus Sasser",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,755,229"
+    },
+    {
+        "name": "Baylor Scheierman",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,494,320"
+    },
+    {
+        "name": "Dennis Schroder",
+        "country": [
+            "Germany"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Alperen Sengun",
+        "country": [
+            "Turkey"
+        ],
+        "salary": "$5,424,654"
+    },
+    {
+        "name": "Brice Sensabaugh",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,571,030"
+    },
+    {
+        "name": "Collin Sexton",
+        "country": [
+            "United States"
+        ],
+        "salary": "$18,350,000"
+    },
+    {
+        "name": "Terrence Shannon, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Day'Ron Sharpe",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,989,122"
+    },
+    {
+        "name": "Shaedon Sharpe",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$6,614,160"
+    },
+    {
+        "name": "Jamal Shead",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,862,265"
+    },
+    {
+        "name": "Ben Sheppard",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,664,031"
+    },
+    {
+        "name": "Reed Sheppard",
+        "country": [
+            "United States"
+        ],
+        "salary": "$10,098,960"
+    },
+    {
+        "name": "Pascal Siakam",
+        "country": [
+            "Cameroon"
+        ],
+        "salary": "$42,176,400"
+    },
+    {
+        "name": "Ben Simmons",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$40,338,144"
+    },
+    {
+        "name": "Anfernee Simons",
+        "country": [
+            "United States"
+        ],
+        "salary": "$25,892,857"
+    },
+    {
+        "name": "K.J. Simpson",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Jericho Sims",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,092,344"
+    },
+    {
+        "name": "Marcus Smart",
+        "country": [
+            "United States"
+        ],
+        "salary": "$20,210,285"
+    },
+    {
+        "name": "Dru Smith",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Jalen Smith",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,571,429"
+    },
+    {
+        "name": "Jabari Smith, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Nick Smith, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Tyler Smith",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Jeremy Sochan",
+        "country": [
+            "United States",
+            "Poland"
+        ],
+        "salary": "$5,570,040"
+    },
+    {
+        "name": "Cam Spencer",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Pat Spencer",
+        "country": [
+            "United States",
+            "Cape Verde"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Jaden Springer",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,018,363"
+    },
+    {
+        "name": "D.J. Steward",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Isaiah Stewart II",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Julian Strawther",
+        "country": [
+            "United States",
+            "Puerto Rico"
+        ],
+        "salary": "$2,552,596"
+    },
+    {
+        "name": "Max Strus",
+        "country": [
+            "United States"
+        ],
+        "salary": "$15,212,068"
+    },
+    {
+        "name": "Jalen Suggs",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,188,385"
+    },
+    {
+        "name": "Jae'sean Tate",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Jayson Tatum",
+        "country": [
+            "United States"
+        ],
+        "salary": "$34,848,340"
+    },
+    {
+        "name": "Garrett Temple",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "Dalen Terry",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,510,480"
+    },
+    {
+        "name": "Daniel Theis",
+        "country": [
+            "Germany"
+        ],
+        "salary": "$2,800,834"
+    },
+    {
+        "name": "Cam Thomas",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,041,249"
+    },
+    {
+        "name": "Amen Thompson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$9,249,748"
+    },
+    {
+        "name": "Ausar Thompson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$8,376,291"
+    },
+    {
+        "name": "Klay Thompson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$15,873,016"
+    },
+    {
+        "name": "Tristan Thompson",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$3,303,771"
+    },
+    {
+        "name": "J.T. Thor",
+        "country": [
+            "United States",
+            "South Sudan"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Matisse Thybulle",
+        "country": [
+            "United States",
+            "Australia"
+        ],
+        "salary": "$11,025,000"
+    },
+    {
+        "name": "Xavier Tillman, Sr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Nikola Topic",
+        "country": [
+            "Serbia"
+        ],
+        "salary": "$4,935,960"
+    },
+    {
+        "name": "Jacob Toppin",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Obi Toppin",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,975,000"
+    },
+    {
+        "name": "Karl-Anthony Towns",
+        "country": [
+            "United States",
+            "Dominican Republic"
+        ],
+        "salary": "$49,205,800"
+    },
+    {
+        "name": "Armel Traore",
+        "country": [
+            "France"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Luke Travers",
+        "country": [
+            "Australia"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Gary Trent, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Oscar Tshiebwe",
+        "country": [
+            "Democratic Republic of the Congo"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "P.J. Tucker",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Myles Turner",
+        "country": [
+            "United States"
+        ],
+        "salary": "$19,928,500"
+    },
+    {
+        "name": "Hunter Tyson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Jaylon Tyson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,326,160"
+    },
+    {
+        "name": "Stanley Umude",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Jonas Valanciunas",
+        "country": [
+            "Lithuania"
+        ],
+        "salary": "$9,900,000"
+    },
+    {
+        "name": "Fred VanVleet",
+        "country": [
+            "United States"
+        ],
+        "salary": "$42,846,615"
+    },
+    {
+        "name": "Jarred Vanderbilt",
+        "country": [
+            "United States"
+        ],
+        "salary": "$10,714,286"
+    },
+    {
+        "name": "Devin Vassell",
+        "country": [
+            "United States"
+        ],
+        "salary": "$29,347,826"
+    },
+    {
+        "name": "Gabe Vincent",
+        "country": [
+            "United States",
+            "Nigeria"
+        ],
+        "salary": "$11,000,000"
+    },
+    {
+        "name": "Nikola Vucevic",
+        "country": [
+            "Switzerland",
+            "Montenegro"
+        ],
+        "salary": "$20,000,000"
+    },
+    {
+        "name": "Tristan Vukcevic",
+        "country": [
+            "Italy",
+            "Serbia"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Dean Wade",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,166,667"
+    },
+    {
+        "name": "Franz Wagner",
+        "country": [
+            "Germany"
+        ],
+        "salary": "$7,007,092"
+    },
+    {
+        "name": "Moe Wagner",
+        "country": [
+            "Germany"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Jabari Walker",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,019,699"
+    },
+    {
+        "name": "Jarace Walker",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,362,433"
+    },
+    {
+        "name": "Cason Wallace",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,555,920"
+    },
+    {
+        "name": "Keaton Wallace",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Jordan Walsh",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "Ja'Kobe Walter",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,465,000"
+    },
+    {
+        "name": "Kel'el Ware",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,231,800"
+    },
+    {
+        "name": "TyTy Washington, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "P.J. Washington",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Lindy Waters III",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,196,970"
+    },
+    {
+        "name": "Trendon Watford",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,726,603"
+    },
+    {
+        "name": "Anton Watson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Peyton Watson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,413,560"
+    },
+    {
+        "name": "Jaylen Wells",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,157,153"
+    },
+    {
+        "name": "Victor Wembanyama",
+        "country": [
+            "France"
+        ],
+        "salary": "$12,768,664"
+    },
+    {
+        "name": "Blake Wesley",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,624,280"
+    },
+    {
+        "name": "Russell Westbrook",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,631,296"
+    },
+    {
+        "name": "Coby White",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,000,000"
+    },
+    {
+        "name": "Derrick White",
+        "country": [
+            "United States"
+        ],
+        "salary": "$20,071,429"
+    },
+    {
+        "name": "Dariq Whitehead",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,114,342"
+    },
+    {
+        "name": "Cam Whitmore",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Aaron Wiggins",
+        "country": [
+            "United States"
+        ],
+        "salary": "$10,514,017"
+    },
+    {
+        "name": "Andrew Wiggins",
+        "country": [
+            "Canada"
+        ],
+        "salary": "$26,276,786"
+    },
+    {
+        "name": "Brandon Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
+        "name": "Cody Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$5,469,120"
+    },
+    {
+        "name": "Grant Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$13,025,250"
+    },
+    {
+        "name": "Jalen Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,775,760"
+    },
+    {
+        "name": "Jaylin Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,019,699"
+    },
+    {
+        "name": "Nate Williams, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Vincent Williams, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Kenrich Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,669,000"
+    },
+    {
+        "name": "Mark Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$4,094,280"
+    },
+    {
+        "name": "Patrick Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$18,000,000"
+    },
+    {
+        "name": "Robert Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$12,428,571"
+    },
+    {
+        "name": "Ziaire Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$6,133,005"
+    },
+    {
+        "name": "Zion Williamson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$36,725,670"
+    },
+    {
+        "name": "Jalen Wilson",
+        "country": [
+            "United States"
+        ],
+        "salary": "$1,891,857"
+    },
+    {
+        "name": "James Wiseman",
+        "country": [
+            "United States"
+        ],
+        "salary": "$2,237,691"
+    },
+    {
+        "name": "Christian Wood",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,036,040"
+    },
+    {
+        "name": "Delon Wright",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,003,427"
+    },
+    {
+        "name": "Guerschon Yabusele",
+        "country": [
+            "France"
+        ],
+        "salary": "$2,087,519"
+    },
+    {
+        "name": "Cui Yongxi",
+        "country": [
+            "China"
+        ],
+        "salary": null
+    },
+    {
+        "name": "Trae Young",
+        "country": [
+            "United States"
+        ],
+        "salary": "$43,031,940"
+    },
+    {
+        "name": "Cody Zeller",
+        "country": [
+            "United States"
+        ],
+        "salary": "$3,500,000"
+    },
+    {
+        "name": "Ivica Zubac",
+        "country": [
+            "Bosnia and Herzegovina",
+            "Croatia"
+        ],
+        "salary": "$11,743,210"
+    }
+]

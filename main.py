@@ -57,13 +57,16 @@ def get_players_salary():
     browser = webdriver.Chrome()
     browser.get("https://hoopshype.com/salaries/players/")
     
-    # Gets the specified elements 
-    players_name_elements = browser.find_elements(By.XPATH, "//tr/td[@class='name']/a")
+    # Gets both specified elements 
+    player_rows = browser.find_elements(By.XPATH, "//tr[td[@class='name']/a and td[@class='hh-salaries-sorted']]")
     
-    # Print the name of each player
-    for name_element in players_name_elements:
-        name = name_element.text
-        print(name)
+    # Print the name and salary of each player
+    for row in player_rows:
+        name = row.find_element(By.TAG_NAME, "a").text
+                
+        salary = row.find_element(By.CLASS_NAME, "hh-salaries-sorted").text
+                
+        print(f"Name: {name}, Salary: {salary}")
 
 
 def main():

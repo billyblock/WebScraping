@@ -25,8 +25,8 @@ def get_players_country():
     # Locate all player countries
     player_countries_elements = browser.find_elements(By.XPATH, "//tr/td[@data-th='Nationality']")
 
-    # Extract lpayer name and countries
-    player_data = {}
+    # List for all players
+    players = []
     for name_element, country_element in zip(player_names_elements, player_countries_elements):
         name = name_element.text
         
@@ -35,17 +35,15 @@ def get_players_country():
         country = []
         for a in country_element.find_elements(By.TAG_NAME, "a"):
             country.append(a.text)
-        
-        player_data[name] = {"Country": country}
-        print(f"Player: {name}, Country: {country}")
-    
-    '''
-    There is no element between Council IV and Craig so I am currently unsure why it is throwing error.
-    Ricky Council IV
-    [14276:15224:1018/223149.331:ERROR:device_event_log_impl.cc(201)] [22:31:49.331] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-    Torrey Craig
-    '''
-    
+            
+        # Create a dictionary for each player so it emulates a json file for now
+        player_dictionary = {
+            "name": name,
+            "country": country,
+            "salary": None
+        }
+        players.append(player_dictionary)
+    print(players)
     browser.quit() # Properly exit browser
 
 def get_players_salary():

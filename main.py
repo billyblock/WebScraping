@@ -89,8 +89,8 @@ def get_avg_salary():
 
     # Set figure size
     plot.figure(figsize=(13, 6))
-    # Plot top 10 countries for clarity
-    plot.bar(countries[:20], avg_salaries[:20], color='teal')
+    # Plot top 15 countries for clarity
+    plot.bar(countries[:15], avg_salaries[:15], color='teal')
 
     plot.xlabel("Country", fontsize=12)
     plot.ylabel("Average Salary (in tens of millions)", fontsize=12)

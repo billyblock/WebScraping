@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By # for locating HTML elements
 import json
 import matplotlib.pyplot as plot
 import re
+import matplotlib.ticker as ticker
 from collections import defaultdict
 
 # For the basics of Selenium I was following their guide
@@ -97,7 +98,8 @@ def get_avg_salary():
     plot.title("Top 20 Countries by Average Player Salary", fontsize=16)
     # Rotate x-axis labels for readability
     plot.xticks(rotation=45, ha='right')
-    plot.tight_layout()
+    plot.yticks(rotation=45, ha='right')
+    plot.ticklabel_format(style='plain', axis='y')
 
     #print(avg_salaries[:20])
 

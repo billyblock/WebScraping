@@ -1,6 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By # for locating HTML elements
 import json
+import matplotlib.pyplot as plot
+import re
+from collections import defaultdict
 
 # For the basics of Selenium I was following their guide
 # https://www.selenium.dev/selenium/docs/api/py/index.html
@@ -66,6 +69,16 @@ def get_players_salary():
                 player["salary"] = salary
                 break
 
+def plot_salary_by_country():
+    #https://www.geeksforgeeks.org/defaultdict-in-python/
+    country_salaries = defaultdict(list)
+
+    for player in players:
+        if player["salary"]:
+            salary = float(re.sub(r"[^\d.]", "", player["salary"]))
+            for country in player["country"]:
+                country_salaries[country].append(salary)
+    print(country_salaries)
 
 def main():
     get_players_country()
@@ -76,6 +89,7 @@ def main():
     
     with open("player_data.json", "w") as file:
         json.dump(players, file, indent=4)
+    plot_salary_by_country()
 
 if __name__ == "__main__":
     main()

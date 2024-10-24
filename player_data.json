@@ -216,18 +216,11 @@
         "salary": "$578,577"
     },
     {
-        "name": "Keita Bates-Diop",
-        "country": [
-            "United States"
-        ],
-        "salary": "$2,654,644"
-    },
-    {
         "name": "Jamison Battle",
         "country": [
             "United States"
         ],
-        "salary": "$1,157,153"
+        "salary": "$578,577"
     },
     {
         "name": "Nicolas Batum",
@@ -321,6 +314,13 @@
             "United States"
         ],
         "salary": "$49,205,800"
+    },
+    {
+        "name": "B.J. Boston, Jr.",
+        "country": [
+            "United States"
+        ],
+        "salary": null
     },
     {
         "name": "Chris Boucher",
@@ -427,6 +427,13 @@
             "United States"
         ],
         "salary": "$3,303,771"
+    },
+    {
+        "name": "Jared Butler",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
     },
     {
         "name": "Jimmy Butler",
@@ -767,13 +774,6 @@
             "United States"
         ],
         "salary": "$23,400,000"
-    },
-    {
-        "name": "RayJ Dennis",
-        "country": [
-            "United States"
-        ],
-        "salary": null
     },
     {
         "name": "Donte DiVincenzo",
@@ -1148,7 +1148,7 @@
         "country": [
             "United States"
         ],
-        "salary": "$1,157,153"
+        "salary": "$578,577"
     },
     {
         "name": "Jerami Grant",
@@ -1341,13 +1341,6 @@
             "United States"
         ],
         "salary": "$5,200,000"
-    },
-    {
-        "name": "Malcolm Hill",
-        "country": [
-            "United States"
-        ],
-        "salary": "$578,577"
     },
     {
         "name": "Aaron Holiday",
@@ -1715,7 +1708,7 @@
         "country": [
             "Bahamas"
         ],
-        "salary": "$2,162,606"
+        "salary": "$578,577"
     },
     {
         "name": "Mason Jones",
@@ -1778,7 +1771,7 @@
         "country": [
             "Japan"
         ],
-        "salary": "$1,157,153"
+        "salary": "$578,577"
     },
     {
         "name": "Luke Kennard",
@@ -2073,7 +2066,7 @@
         "country": [
             "United States"
         ],
-        "salary": "$1,862,265"
+        "salary": "$578,577"
     },
     {
         "name": "Garrison Mathews",
@@ -2124,7 +2117,7 @@
         "country": [
             "United States"
         ],
-        "salary": "$2,087,519"
+        "salary": "$578,577"
     },
     {
         "name": "C.J. McCollum",
@@ -2159,7 +2152,7 @@
         "country": [
             "United States"
         ],
-        "salary": null
+        "salary": "$3,303,771"
     },
     {
         "name": "Bryce McGowens",
@@ -2258,7 +2251,7 @@
         "country": [
             "United States"
         ],
-        "salary": "$1,157,153"
+        "salary": "$578,577"
     },
     {
         "name": "Josh Minott",
@@ -2491,7 +2484,7 @@
         "country": [
             "United States"
         ],
-        "salary": "$1,157,153"
+        "salary": "$578,577"
     },
     {
         "name": "Kelly Olynyk",
@@ -2761,6 +2754,13 @@
         "salary": "$13,986,432"
     },
     {
+        "name": "Jared Rhoden",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
+    },
+    {
         "name": "Nick Richards",
         "country": [
             "Jamaica"
@@ -2787,7 +2787,7 @@
         "country": [
             "United States"
         ],
-        "salary": "$1,157,153"
+        "salary": "$578,577"
     },
     {
         "name": "Duncan Robinson",
@@ -3122,6 +3122,13 @@
             "United States"
         ],
         "salary": "$9,188,385"
+    },
+    {
+        "name": "Cole Swider",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
     },
     {
         "name": "Jae'sean Tate",
@@ -3541,6 +3548,13 @@
             "Canada"
         ],
         "salary": "$26,276,786"
+    },
+    {
+        "name": "Alondes Williams",
+        "country": [
+            "United States"
+        ],
+        "salary": "$578,577"
     },
     {
         "name": "Brandon Williams",

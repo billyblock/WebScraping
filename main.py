@@ -11,8 +11,6 @@ from collections import defaultdict
 # For get the page source
 # https://www.scrapingbee.com/blog/selenium-python/
 
-
-
 # List for all players
 players = []
 
@@ -57,7 +55,7 @@ def get_players_salary():
     # Gets both specified elements 
     player_rows = browser.find_elements(By.XPATH, "//tr[td[@class='name']/a and td[@class='hh-salaries-sorted']]")
     
-    # Print the name and salary of each player
+    # Get the name and salary of each player
     for row in player_rows:
         name = row.find_element(By.TAG_NAME, "a").text
                 
@@ -69,16 +67,43 @@ def get_players_salary():
                 player["salary"] = salary
                 break
 
-def plot_salary_by_country():
+def get_avg_salary():
     #https://www.geeksforgeeks.org/defaultdict-in-python/
     country_salaries = defaultdict(list)
 
+    # puts the salaries into the dict at countries
     for player in players:
         if player["salary"]:
             salary = float(re.sub(r"[^\d.]", "", player["salary"]))
             for country in player["country"]:
                 country_salaries[country].append(salary)
-    print(country_salaries)
+
+    average_salaries_by_country = {}
+    # Adds up all salaries for the country and divides by the amount of salaries added.
+    for country , salaries in country_salaries.items():
+        average_salaries_by_country[country] = sum(salaries) / len(salaries)
+
+    sorted_countries = sorted(average_salaries_by_country.items(), key=lambda x: x[1], reverse=True)
+    countries = [item[0] for item in sorted_countries]
+    avg_salaries = [item[1] for item in sorted_countries]
+
+    # Set figure size
+    plot.figure(figsize=(13, 6))
+    # Plot top 10 countries for clarity
+    plot.bar(countries[:20], avg_salaries[:20], color='teal')
+
+    plot.xlabel("Country", fontsize=12)
+    plot.ylabel("Average Salary (in tens of millions)", fontsize=12)
+    plot.title("Top 20 Countries by Average Player Salary", fontsize=16)
+    # Rotate x-axis labels for readability
+    plot.xticks(rotation=45, ha='right')
+    plot.tight_layout()
+
+    #print(avg_salaries[:20])
+
+    plot.show()
+    
+
 
 def main():
     get_players_country()
@@ -89,7 +114,8 @@ def main():
     
     with open("player_data.json", "w") as file:
         json.dump(players, file, indent=4)
-    plot_salary_by_country()
+
+    get_avg_salary()
 
 if __name__ == "__main__":
     main()
